@@ -1,0 +1,744 @@
+[{
+  "_id": {
+    "$oid": "667103567333636e7b578e33"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-04T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e34"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-05T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e35"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-06T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e36"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "entry_time": "08:45",
+  "exit_time": "17:45",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e37"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-07T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e38"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-08T00:00:00.000Z"
+  },
+  "entry_time": "10:15",
+  "exit_time": "17:15",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e39"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-02T00:00:00.000Z"
+  },
+  "entry_time": "08:15",
+  "exit_time": "17:15",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e3a"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-09T00:00:00.000Z"
+  },
+  "entry_time": "08:45",
+  "exit_time": "17:45",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e3b"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-12T00:00:00.000Z"
+  },
+  "entry_time": "10:00",
+  "exit_time": "17:00",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e3c"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-13T00:00:00.000Z"
+  },
+  "entry_time": "09:45",
+  "exit_time": "18:45",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e3d"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-14T00:00:00.000Z"
+  },
+  "entry_time": "10:00",
+  "exit_time": "19:00",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e3e"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  },
+  "entry_time": "10:00",
+  "exit_time": "19:00",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e3f"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-16T00:00:00.000Z"
+  },
+  "entry_time": "09:00",
+  "exit_time": "18:00",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e40"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-03T00:00:00.000Z"
+  },
+  "entry_time": "08:45",
+  "exit_time": "15:45",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e41"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-17T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e42"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-19T00:00:00.000Z"
+  },
+  "entry_time": "10:45",
+  "exit_time": "19:45",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e43"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-11T00:00:00.000Z"
+  },
+  "entry_time": "08:00",
+  "exit_time": "16:00",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e44"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e45"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-21T00:00:00.000Z"
+  },
+  "entry_time": "08:45",
+  "exit_time": "17:45",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e46"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-22T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e47"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-10T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e48"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-23T00:00:00.000Z"
+  },
+  "entry_time": "09:30",
+  "exit_time": "17:30",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e49"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-18T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e4a"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-24T00:00:00.000Z"
+  },
+  "entry_time": "09:30",
+  "exit_time": "17:30",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e4b"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-25T00:00:00.000Z"
+  },
+  "entry_time": "10:45",
+  "exit_time": "18:45",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e4c"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-26T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e4d"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-27T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e4e"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-28T00:00:00.000Z"
+  },
+  "entry_time": "10:30",
+  "exit_time": "18:30",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e4f"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-29T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "667103567333636e7b578e50"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-30T00:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66711cb22fe073c755acae3f"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-31T19:00:00.000Z"
+  },
+  "entry_time": "09:23",
+  "exit_time": "14:27",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f4f"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-06-30T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f50"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-01T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f51"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-02T19:00:00.000Z"
+  },
+  "entry_time": "08:36",
+  "exit_time": "16:26",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f52"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-03T19:00:00.000Z"
+  },
+  "entry_time": "09:09",
+  "exit_time": "17:53",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f53"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-04T19:00:00.000Z"
+  },
+  "entry_time": "09:58",
+  "exit_time": "16:53",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f54"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-05T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f55"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-06T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f56"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-07T19:00:00.000Z"
+  },
+  "entry_time": "09:50",
+  "exit_time": "17:46",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f57"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-08T19:00:00.000Z"
+  },
+  "entry_time": "09:54",
+  "exit_time": "15:36",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f58"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-09T19:00:00.000Z"
+  },
+  "entry_time": "08:58",
+  "exit_time": "17:04",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f59"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-10T19:00:00.000Z"
+  },
+  "entry_time": "08:31",
+  "exit_time": "15:21",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f5a"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-11T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f5b"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-12T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f5c"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-13T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f5d"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-14T19:00:00.000Z"
+  },
+  "entry_time": "08:49",
+  "exit_time": "15:17",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f5e"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-15T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f5f"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-16T19:00:00.000Z"
+  },
+  "entry_time": "09:51",
+  "exit_time": "15:05",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f60"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-17T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f61"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-18T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f62"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-19T19:00:00.000Z"
+  },
+  "entry_time": "09:01",
+  "exit_time": "15:38",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f63"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-20T19:00:00.000Z"
+  },
+  "entry_time": "08:19",
+  "exit_time": "15:07",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f64"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-21T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f65"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-22T19:00:00.000Z"
+  },
+  "entry_time": "09:49",
+  "exit_time": "17:26",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f66"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-23T19:00:00.000Z"
+  },
+  "entry_time": "08:55",
+  "exit_time": "16:28",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f67"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-24T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f68"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-25T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adbd994e132f2de3f69"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-26T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adcd994e132f2de3f6a"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-27T19:00:00.000Z"
+  },
+  "entry_time": "",
+  "exit_time": "",
+  "absent": true
+},
+{
+  "_id": {
+    "$oid": "66717adcd994e132f2de3f6b"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-28T19:00:00.000Z"
+  },
+  "entry_time": "08:24",
+  "exit_time": "16:41",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adcd994e132f2de3f6c"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-29T19:00:00.000Z"
+  },
+  "entry_time": "08:47",
+  "exit_time": "16:48",
+  "absent": false
+},
+{
+  "_id": {
+    "$oid": "66717adcd994e132f2de3f6d"
+  },
+  "faculty_id": "6",
+  "date": {
+    "$date": "2023-07-30T19:00:00.000Z"
+  },
+  "entry_time": "09:51",
+  "exit_time": "17:09",
+  "absent": false
+}]
